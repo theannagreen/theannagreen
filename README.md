@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **MEN-stack CRUD App**
+- 🌱 I’m currently learning **MERN-stack CRUD App**
 
 - 📫 How to reach me **theannalgreen@gmail.com**
 
