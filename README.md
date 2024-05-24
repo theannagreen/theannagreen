@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN-stack CRUD App**
+- 🌱 I’m currently actively looking for a full-stack engineering opportunity**
 
 - 📫 How to reach me **theannalgreen@gmail.com**
 
